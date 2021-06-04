@@ -5,4 +5,6 @@ This app has been made for a country club, but can easly be changed for every ne
 The client is written with React code and the server is written with Java (Spring Framework)
 The Database can be H2 or MySQL(go to the server code --> src/main/resources --> application, and choose which one to work with).
 
+# *NOTE: For the client side - you'll need to install NodeJS and run npm install in the react terminal, so that the node modules will be added. 
+
 Couldn't have done it without: Daniel Aizenband, Lior Perlman, Nadav Rud, Lior Toledano, Imry Ashur.
